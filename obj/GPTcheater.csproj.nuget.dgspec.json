@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zresp\\RiderProjects\\GPTcheater\\GPTcheater.csproj": {}
+    "C:\\Users\\LENOVO\\Desktop\\Projects\\GPTcheater\\GPTcheater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zresp\\RiderProjects\\GPTcheater\\GPTcheater.csproj": {
+    "C:\\Users\\LENOVO\\Desktop\\Projects\\GPTcheater\\GPTcheater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zresp\\RiderProjects\\GPTcheater\\GPTcheater.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Projects\\GPTcheater\\GPTcheater.csproj",
         "projectName": "GPTcheater",
-        "projectPath": "C:\\Users\\zresp\\RiderProjects\\GPTcheater\\GPTcheater.csproj",
-        "packagesPath": "C:\\Users\\zresp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zresp\\RiderProjects\\GPTcheater\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Projects\\GPTcheater\\GPTcheater.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Projects\\GPTcheater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zresp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows10.0.17763.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -79,7 +79,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.17763.54, 10.0.17763.54]"
+              "version": "[10.0.17763.57, 10.0.17763.57]"
             }
           ],
           "frameworkReferences": {
@@ -93,7 +93,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\zresp\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

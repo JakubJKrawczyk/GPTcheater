@@ -85,7 +85,7 @@ class Program
                         role = "user",
                         content = new object[]
                         {
-                            new { type = "text", text = "If on image is question with avaible answears then give me indexes of correct otherwise describe what's on screen. Use very short answears!" },
+                            new { type = "text", text = "Answer question on image with correct answer or answers. use short response" },
                             new { type = "image_url", image_url = new { url = imageUrl } }
                         }
                     }

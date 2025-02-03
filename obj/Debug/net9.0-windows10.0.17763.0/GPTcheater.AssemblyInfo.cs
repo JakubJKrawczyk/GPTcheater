@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPTcheater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb2a4979270e3c4aeb3a9508f1205d518f582a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPTcheater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPTcheater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
